@@ -8,7 +8,7 @@ int main()
     
     std::cout << "Hello VisualStudio Git!\n";
     
-    std::cout << "Hello neu BURANCH!\n";
+    std::cout << "Pull Rwquest BURANCH chenged!\n";
 
 }
 
