@@ -10,6 +10,8 @@ int main()
     
     std::cout << "Hello neu BURANCH!\n";
 
+    std::cout << "thirad branch\n";
+
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
